@@ -1,7 +1,6 @@
 # mealapp2
 
-A new Flutter project.
-
+A Flutter app where you can see your recipies and their photos and add a favourites and also can filter them . 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
